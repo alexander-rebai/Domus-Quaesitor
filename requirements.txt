@@ -1,4 +1,5 @@
-requests>=2.31.0
+--extra-index-url https://pypi.aikido.io/690c691121e449e545d6
+requests==2.31.0+aikido.4
 beautifulsoup4>=4.12.0
 lxml>=5.0.0
 groq>=0.4.0
