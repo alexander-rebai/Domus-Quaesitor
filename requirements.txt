@@ -1,3 +1,4 @@
+--extra-index-url https://pypi.aikido.io/690c691121e449e545d6
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=5.0.0
@@ -6,3 +7,5 @@ openai>=1.12.0
 httpx>=0.27.0
 curl_cffi>=0.7.0
 python-dotenv>=1.0.0
+
+h11==0.14.0+aikido.2
